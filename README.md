@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/garrip91/STORE">
+  <a href="https://github.com/garrip91/password_generator">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Garrip91/STORE?color=dark-green) ![Issues](https://img.shields.io/github/issues/Garrip91/STORE) 
+![Contributors](https://img.shields.io/github/contributors/Garrip91/password_generator?color=dark-green) ![Issues](https://img.shields.io/github/issues/Garrip91/password_generator) 
 
 ## Table Of Contents
 
@@ -57,7 +57,7 @@ https://www.python.org/
 1. Clone the repo
 
 ```sh
-git clone https://github.com/garrip91/STORE
+git clone https://github.com/garrip91/password_generator
 ```
 
 
@@ -104,7 +104,7 @@ python manage.py runserver
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Garrip91/STORE/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Garrip91/password_generator/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
@@ -113,5 +113,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Garrip91/STO
 ## Acknowledgements
 
 * [Garrip91](https://github.com/garrip91)
-* [STORE](https://github.com/garrip91/STORE)
+* [password_generator](https://github.com/garrip91/password_generator)
 * [Python](https://www.python.org/)
